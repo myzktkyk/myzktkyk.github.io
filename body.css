@@ -40,10 +40,11 @@ body {
     background-color: black;
 }
 
-iframe {
+.bot {
     width: 400px;
     height: 400px;
     display: block;
+    background-color: white;
     margin: 0 auto;
 }
 
